@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HumafahadSiddiqui
-- 👀 I’m interested in learning new languages ,visiting archiological sites and many more...
-- 🌱 I’m currently learning html ,css,typescript,python ...
+- 👀 I’m interested in learning user friendly languages.
+- 🌱 I’m currently learning Html ,css,typescript,python,boostrap,react,next.js and AI.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through my linkindin @humasiddiqui..
-- 😄 Pronouns: ho ma😎...
+- 📫 How to reach me through my linkindin mentioned above.
+- 😄 Pronouns: ho ma😎 fayhad..
 - ⚡ Fun fact: i m seriously serious..
 
 <!---
