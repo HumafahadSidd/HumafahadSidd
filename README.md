@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @HumafahadSiddiqui
-- 👀 I’m interested in learning user friendly languages.
-- 🌱 I’m currently learning Html ,css,typescript,python,boostrap,react,next.js and AI.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through my linkindin mentioned above.
-- 😄 Pronouns: ho ma😎 fayhad..
-- ⚡ Fun fact: i m seriously serious..
+### Hi, I'm Huma Fahad Siddiqui 👋
 
-<!---
-HumafahadSidd/HumafahadSidd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 Completed a course in **AI & Metaverse**, focused on building intelligent, autonomous systems.
+- 🤖 Learned the **OpenAI Agents SDK** — building AI agents that can reason, plan, and take real actions.
+- 🐍 Strong foundation in **Python**, along with **HTML, CSS, TypeScript, Bootstrap, React, and Next.js**.
+- 🔧 Explored **OpenClaw** and agentic workflows for automating real-world tasks.
+- 🌱 Currently building AI-powered agents and full-stack projects that combine automation with clean, user-friendly interfaces.
+- 💞️ Open to collaborating on **AI agent** and **web development** projects.
+- 📫 Reach me on [LinkedIn](#) — *(https://www.linkedin.com/in/huma-fahad-b226b52b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZDKVSFdzQ0Cd8otXWTIWbg%3D%3D)*
+- ⚡ Fun fact: I take "serious" seriously.
